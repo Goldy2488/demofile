@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+.zodiac-container h1{
+    margin: 2rem 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(50,50,50);
+    color: white;
+    padding: 1rem;
+}
+
+.btn,select{
+    margin: 2rem 0;
+    cursor: pointer;
+    background-color: rgb(50,50,50);
+    color: white;
+    padding: 1rem;
+    font:100 1.2rem 'Gill Sans';
+    border: none;
+    border-radius: .5rem;
+    outline: none;
+}
+.btn{
+    background-color: rgb(20, 61, 173);
+}
